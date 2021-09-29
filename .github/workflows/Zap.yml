@@ -1,4 +1,4 @@
-name: Zap_Baseline_Scan
+name: Zap_Baseline_Scan_test
 on: [push]
 
 jobs:
